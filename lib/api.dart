@@ -4,8 +4,7 @@ import 'package:dio/dio.dart';
 
 class ApiServices {
   var dio = Dio();
-  var url =
-      'https://appgain-task-link-shortner-production.up.railway.app/shortlinks';
+  var url = 'http://localhost:3000/shortlinks';
 
   addLinkRequest(body) async {
     try {

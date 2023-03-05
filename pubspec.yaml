@@ -31,9 +31,14 @@ environment:
 dependencies:
   cupertino_icons: ^1.0.2
   dio: ^4.0.6
+  firebase_analytics: ^10.1.4
+  firebase_core: ^2.7.0
+  firebase_messaging: ^14.2.5
   flutter:
     sdk: flutter
   http: ^0.13.5
+  notification_permissions: ^0.6.1
+  permission_handler: ^10.2.0
 
 dev_dependencies:
   flutter_lints: ^2.0.0

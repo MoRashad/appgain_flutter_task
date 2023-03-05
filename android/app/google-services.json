@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255634393046",
+    "project_id": "link-shortner-a76c8",
+    "storage_bucket": "link-shortner-a76c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255634393046:android:8c39d3aaba736d39d48677",
+        "android_client_info": {
+          "package_name": "com.example.appgain_flutter_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255634393046-05vpe5l9s4j3lfj33mqe7jk6v0kij7p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBElR8T2YuIIhZlYprox7nlosZUhRlRzaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255634393046-05vpe5l9s4j3lfj33mqe7jk6v0kij7p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
