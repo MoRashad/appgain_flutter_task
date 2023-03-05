@@ -70,7 +70,7 @@ class _AddLinkScreenState extends State<AddLinkScreen> {
             child: Center(
               child: Column(
                 children: [
-                  MyTextWidget(text: 'Device token : $deviceToken', size: 18),
+                  SelectableText('Device token : $deviceToken'),
                   const SizedBox(height: 15),
                   MyTextField(
                     text: "web Url",
